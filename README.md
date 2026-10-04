@@ -2,7 +2,7 @@ I'm Felix, based in Cork, Ireland. I worked in technical support for 14 years an
  
 Some things I've made:
  
-- **[agentbox](https://github.com/fstubner/agentbox)**: a self-hosted assistant for several people, running on local models
+- **[agentbox](https://github.com/fstubner/agentbox)**: a self-hosted household AI assistant, running on local models
 - **[agent-skills](https://github.com/fstubner/agent-skills)**: skills that make coding agents plan first and check their work before calling it done
 - **[xtctx](https://github.com/fstubner/xtctx)**: lets the next coding agent you open pick up where the last one left off
 - **[harness-dispatch](https://github.com/fstubner/harness-dispatch)**: hands whole coding tasks to Claude Code, Codex or Cursor
